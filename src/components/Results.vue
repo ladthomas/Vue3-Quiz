@@ -35,7 +35,7 @@
   </script>
   
   <style scoped>
-  /* Ajoutez ici vos styles spécifiques au composant Results */
+
   .results {
     text-align: left;
     max-width: 600px;

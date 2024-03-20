@@ -21,7 +21,7 @@ export default {
 </script>
 
 <style>
-/* Ajoutez ici le style global de votre application */
+
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
